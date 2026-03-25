@@ -21,7 +21,7 @@
     "node": ">=23.3.0"
   },
   "dependencies": {
-    "@eyevinn/shaka-packager-s3": "^0.6.3",
+    "@eyevinn/shaka-packager-s3": "github:Ramilito/shaka-packager-s3#feat/iframe-playlist-name",
     "@fastify/cors": "^8.2.0",
     "@fastify/swagger": "^8.15.0",
     "@fastify/swagger-ui": "^4.2.0",
